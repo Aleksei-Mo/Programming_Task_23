@@ -1,4 +1,5 @@
 ﻿// Задача 23. Напишите программу, которая принимает на вход число N и выдает таблицу кубов от 1 до N.
+Console.Clear();// clear console
 Console.WriteLine("This programm calculates cubes of numbers from 1 to entered number.");
 Console.Write("Enter your positive integer: ");
 int userNumber=Convert.ToInt32(Console.ReadLine());
